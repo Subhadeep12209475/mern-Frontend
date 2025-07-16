@@ -63,7 +63,7 @@ const HomePage = () => {
 
             {/* Footer */}
             <footer className="text-center py-4 bg-emerald-200 text-gray-700">
-                © 2025 ShopEase. All rights reserved.
+                © Subhadeep. All rights reserved.
             </footer>
         </div>
     );
